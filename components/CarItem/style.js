@@ -13,7 +13,7 @@
       title:{
         fontSize: 40,
         fontWeight:'500',
-        color: 'red'
+        color: 'black'
       },
       subtitle:{
         fontSize: 16,
